@@ -1,0 +1,32 @@
+body {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    text-align: center;
+}
+
+.body {
+    margin: 30px;
+    padding: 250px 0;
+    background-image: url("img/image.jpg");
+    background-size: cover;
+    color: white;
+}
+
+.body h2 {
+    font-size: 58px;
+}   
+
+#copyr {
+    font-size: 1rem;
+}
+
+.body a {
+    color: rgb(0, 255, 255);
+    text-decoration: none;
+    font-size: 1.75em;
+}
+
+p {
+    font-size: 2rem;
+}
